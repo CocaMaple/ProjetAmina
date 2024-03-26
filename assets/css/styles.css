@@ -258,6 +258,15 @@ body.dark-theme {
   }
 }
 
+.traduction{
+  display: flex;
+  flex-direction: row;
+}
+
+.tt{
+  padding-right: 10px;
+}
+
 .nav__list {
   display: flex;
   flex-direction: column;
