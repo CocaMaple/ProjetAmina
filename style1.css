@@ -260,7 +260,17 @@ body {
 .espace {
     display: flex;
     flex-direction: row;
-    justify-items: space-around;
+    justify-items: space-between;
+    margin-left: 8%;
+}
+.service{
+    padding: 10px 10px 10px 10px;
+    border-radius: 20%;
+}
+.service1{
+    padding: 10px 10px 10px 10px;
+    border-radius: 20%;
+    margin-top: 80px;
 }
 
 .musculation {
