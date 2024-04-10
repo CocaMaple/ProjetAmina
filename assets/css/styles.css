@@ -6,7 +6,7 @@
   --header-height: 3.5rem;
 
   /*========== Colors ==========*/
-  --first-color: hsl(199, 100%, 35%);
+  --first-color: hsla(199, 97%, 28%, 0.788);
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
   --title-color: hsl(0, 0%, 15%);
